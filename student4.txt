@@ -1,2 +1,0 @@
-Name: Student 4
-Task: Created file
